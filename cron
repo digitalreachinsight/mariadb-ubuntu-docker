@@ -1,0 +1,1 @@
+10 03 * * * root /app/mysqlbackup.sh >>  /dev/null 2>&1
